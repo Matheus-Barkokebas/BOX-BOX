@@ -10,7 +10,7 @@ sistema que traz essa experiência, unindo nossa paixão pela velocidade com a v
 
 # O Projeto
 
-Teste de Reação - BOX-BOX
+Teste de Reação - BOX-BOX     
 Este projeto consiste em um teste de reação inspirado no semáforo utilizado nas largadas de corridas de Fórmula 1. Nosso objetivo é recriar a emoção de uma largada precisa
 e avaliar o tempo de resposta dos participantes.
 
