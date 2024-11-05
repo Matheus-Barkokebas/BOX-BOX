@@ -14,17 +14,17 @@ Teste de Reação - BOX-BOX
 Este projeto consiste em um teste de reação inspirado no semáforo utilizado nas largadas de corridas de Fórmula 1. Nosso objetivo é recriar a emoção de uma largada precisa
 e avaliar o tempo de resposta dos participantes.
 
-Sobre o Projeto
+Sobre o Projeto:         
 O sistema usa LEDs para simular as luzes do semáforo: elas acendem em sequência e, após um breve intervalo, apagam-se todas ao mesmo tempo, indicando o momento exato para o
 participante reagir. O tempo de resposta é medido desde o momento em que todas as luzes apagam até o participante apertar o botão.
 
-Instruções
+Instruções:          
 Conecte os LEDs e o botão conforme o esquema de montagem.
 Carregue o código no Arduino.
 Pressione o botão para iniciar o teste.
 As luzes irão acender uma a uma. Quando todas as luzes apagarem, pressione o botão de novo para registrar seu tempo de reação.
 
-Como Funciona
+Como Funciona:             
 As luzes acendem sequencialmente (como no semáforo da Fórmula 1).
 Após um intervalo aleatório, todas as luzes apagam, marcando o momento de largada.
 O tempo de reação é mostrado no monitor serial após o teste.
