@@ -6,7 +6,7 @@ Nosso grupo é formado por estudantes que são loucos por tecnologia e Fórmula 
 velocidade de reação das pessoas, como no semáforo das largadas de F1. Usando nossos conhecimentos de Arduino e programação, estamos trabalhando juntos para desenvolver um
 sistema que traz essa experiência, unindo nossa paixão pela velocidade com a vontade de aprender mais sobre eletrônica e criação de sistemas interativos.
 
----
+
 
 # O Projeto
 
@@ -29,7 +29,7 @@ As luzes acendem sequencialmente (como no semáforo da Fórmula 1).
 Após um intervalo aleatório, todas as luzes apagam, marcando o momento de largada.
 O tempo de reação é mostrado no monitor serial após o teste.
 
---- 
+ 
 
 # Contribuidores
 
