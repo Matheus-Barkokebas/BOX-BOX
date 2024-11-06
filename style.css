@@ -20,27 +20,69 @@ body{
     display: flex;
 }
 
-h2.titulo{
+h1.titulo{
     color: white;
-    font-size: 37px;
+    font-size: 30px;
     text-align: center;
+    padding: 20px 0;
 }
 
-h2.titulo span{
-    color: blueviolet;
+h1.titulo span{
+    color: rgb(255, 0, 0);
 }
 
+.meio-site h2{
+    color: white;
+    font-size: 20px;
+    text-align: left;
+}
 
-/*Header*/
+.meio-site img{
+    text-align: right;
+}
+
+.meio-site{
+    display: inline-block;
+    padding: 0 20px;
+}
+
+/*Cabeçalho*/
+
+header img{
+    width: 150px;
+}
 
 header{
     padding: 40px 4%;
     align-items: center;
 }
 
-.logo img{
-    width: 150px;
-    justify-items: auto;
-    text-align: left;
-    border-radius: 7%;
+header > .interface{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
+
+header a{
+    color: rgb(233, 226, 226);
+    text-decoration: none;
+    display: inline-block;
+    transition: .2s;
+}
+
+header a:hover{
+    color: rgba(255, 0, 0, 0.808);
+    transform: scale(1.07);
+}
+
+header nav ul{
+    list-style-type: none;
+}
+
+header nav ul li{
+    display: inline-block;
+    padding: 0 40px;
+    margin-right: 105px;
+}
+
+/*Geral*/
