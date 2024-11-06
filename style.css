@@ -1,4 +1,3 @@
-/*Geral*/
 *{
     margin: 0;
     padding: 0;
@@ -7,82 +6,38 @@
 }
 
 body{
-    background-color: black;
     height: 100vh;
 }
 
-.interface{
-    max-width: 1280px;
-    margin: 0 auto;
-}
-
-.flex{
-    display: flex;
-}
-
-h1.titulo{
-    color: white;
-    font-size: 30px;
-    text-align: center;
-    padding: 20px 0;
-}
-
-h1.titulo span{
-    color: rgb(255, 0, 0);
-}
-
-.meio-site h2{
-    color: white;
-    font-size: 20px;
-    text-align: left;
-}
-
-.meio-site img{
-    text-align: right;
-}
-
-.meio-site{
-    display: inline-block;
-    padding: 0 20px;
-}
-
-/*Cabeçalho*/
-
-header img{
-    width: 150px;
-}
-
-header{
+nav{
     padding: 40px 4%;
     align-items: center;
 }
 
-header > .interface{
+nav > .navbar{
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
-header a{
+nav a{
     color: rgb(233, 226, 226);
     text-decoration: none;
     display: inline-block;
     transition: .2s;
 }
 
-header a:hover{
+nav a:hover{
     color: rgba(255, 0, 0, 0.808);
     transform: scale(1.07);
 }
 
-header nav ul{
+nav nav ul{
     list-style-type: none;
 }
 
-header nav ul li{
+nav nav ul li{
     display: inline-block;
     padding: 0 40px;
     margin-right: 105px;
 }
-
-/*Geral*/
