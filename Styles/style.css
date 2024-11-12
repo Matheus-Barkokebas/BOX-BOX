@@ -274,3 +274,17 @@ iframe {
 .img-canvas-boxbox img {
     border-radius: 4%;
 }
+
+.botao-social button{
+    border-radius: 50%;
+    border: none;
+    background-color: rgb(0, 0, 0);
+    font-size: 22px;
+    cursor: pointer;
+    margin: 0 15px;
+    transition: .2s;
+}
+
+.botao-social{
+    text-align: center;
+}
