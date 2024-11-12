@@ -288,3 +288,7 @@ iframe {
 .botao-social{
     text-align: center;
 }
+
+.texto-principal-sobre img{
+    border-radius: 6%;
+}
